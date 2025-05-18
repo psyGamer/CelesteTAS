@@ -1302,7 +1302,7 @@ AnalogMode,Precise
   46,F,87.24
 #100%
   18,F,100.6
-AnalogMode, Ignore
+AnalogMode,Ignore
   15,R,X
   14,R,Z
    1,R,J

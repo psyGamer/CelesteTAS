@@ -546,7 +546,7 @@ Read,7HC,lvl_d-05 (0),lvl_d-05 (1)
    7,L,K
   43
 
-#lvl_d-08 (0)
+#lvl_d-07
 Read,7S,lvl_d-07,lvl_d-10b
 
 #lvl_d-10b
@@ -844,7 +844,7 @@ Read,7S,lvl_e-13,lvl_f-00 (0)
   31
 
 #Overworld
-Add,58
+Add 58
   51
    1,S
    1,J
@@ -856,7 +856,7 @@ Add,58
    1,R
    1,J
   46
-Add,1
+Add 1
 
 #lvl_f-00 (1)
   36
